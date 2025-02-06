@@ -79,29 +79,7 @@ The goal of this project is to create a web-based Food Recipe Recommendation Sys
    - View user info → Edit user profile  
    - View rating history → Redirect to **📖 Recipe Details Page** of rated recipes  
    - Log out → Redirect to **🏠 Homepage**
-
-## 🖥️ Basic Navigation Layout:
-
-- **Header** (appears on all pages):
-   - **Logo** (clickable, redirects to Homepage)
-   - **Search Bar** (for ingredient input, available on all pages)
-   - **Navigation Links**:
-     - Home
-     - My Favorites (only if logged in)
-     - Login/Sign Up (if not logged in)
-     - Profile (only if logged in)
-     - Logout (only if logged in)
-
-- **Sidebar** (optional for additional features):
-   - Filters (Cuisine, Meal Type, Dietary Preferences)
-   - Recently Viewed Recipes
-
-- **Footer** (appears on all pages):
-   - Contact Info
-   - Privacy Policy
-   - About Us
-   - Social Media Links
-
+   - 
 ## 🛠️ Technologies to Use:
 
 - **Frontend**:  
