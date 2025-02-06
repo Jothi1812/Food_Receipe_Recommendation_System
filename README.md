@@ -1,6 +1,7 @@
 # 🍽️ Food Recipe Recommendation System
 
 ## 🎯 Objective:  
+
 The goal of this project is to create a web-based Food Recipe Recommendation System that suggests recipes to users based on the ingredients they have at home. Users can input available ingredients, and the system will provide matching recipes. It will allow users to save their favorite recipes, rate them, and provide detailed information on each recipe. The system will also include advanced search and filtering options for a better user experience.
 
 ## 🛠️ Project Flow:
@@ -79,7 +80,7 @@ The goal of this project is to create a web-based Food Recipe Recommendation Sys
    - View user info → Edit user profile  
    - View rating history → Redirect to **📖 Recipe Details Page** of rated recipes  
    - Log out → Redirect to **🏠 Homepage**
-   - 
+
 ## 🛠️ Technologies to Use:
 
 - **Frontend**:  
@@ -96,6 +97,7 @@ The goal of this project is to create a web-based Food Recipe Recommendation Sys
   - Firebase Authentication or JWT (for user login and session management)
 
 ## 📅 Timeline:
+
 1. **Week 1**:  
    - Day 1-3: Set up project structure, implement user authentication, create the homepage, and design basic UI.
    - Day 4-7: Connect to recipe API, implement the recipe suggestions page, and build the recipe details page.
@@ -106,5 +108,7 @@ The goal of this project is to create a web-based Food Recipe Recommendation Sys
    - Day 13-14: Testing, bug fixing, and deployment.
 
 This layout ensures that you have a solid and functional web app in two weeks with both frontend and backend integration, providing users with a fully dynamic food recipe recommendation experience! 🍽️🚀
-```
 
+Hi
+
+```
