@@ -108,7 +108,4 @@ The goal of this project is to create a web-based Food Recipe Recommendation Sys
    - Day 13-14: Testing, bug fixing, and deployment.
 
 This layout ensures that you have a solid and functional web app in two weeks with both frontend and backend integration, providing users with a fully dynamic food recipe recommendation experience! 🍽️🚀
-
-Hi
-
 ```
