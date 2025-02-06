@@ -1,6 +1,3 @@
-Here’s the project overview in **Markdown (.md)** format with added emojis for a more engaging touch:
-
-```
 # 🍽️ Food Recipe Recommendation System
 
 ## 🎯 Objective:  
@@ -133,4 +130,3 @@ The goal of this project is to create a web-based Food Recipe Recommendation Sys
 This layout ensures that you have a solid and functional web app in two weeks with both frontend and backend integration, providing users with a fully dynamic food recipe recommendation experience! 🍽️🚀
 ```
 
-This version uses emojis to add a more engaging and fun look to the project description.
